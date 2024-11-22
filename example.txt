@@ -1,2 +1,3 @@
-Hello, this is a test file.
-This line is added to the file.  No new line added here
+This is an example file.
+Hello, this is a test content.
+Enjoy coding!
